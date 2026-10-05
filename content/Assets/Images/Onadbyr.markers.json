@@ -1,0 +1,38 @@
+{
+  "size": {
+    "w": 2479,
+    "h": 3209
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "Assets/Images/Onadbyr.jpg"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Assets/Images/Onadbyr.jpg",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": [],
+  "grids": [],
+  "secondScreen": {
+    "showGrids": true
+  }
+}

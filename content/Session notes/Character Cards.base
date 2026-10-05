@@ -1,0 +1,26 @@
+formulas:
+  Nick and full name: file.name + " | " + note["full name"]
+properties:
+  note.p_investigation:
+    displayName: Investigation
+  note.p_perception:
+    displayName: Perception
+  note.p_insight:
+    displayName: Insight
+  note.p_persuasion:
+    displayName: Persuasion
+views:
+  - type: cards
+    name: Heroes
+    filters:
+      and:
+        - file.inFolder("World/Being/Party")
+        - '!file.name.contains(".ini")'
+    order:
+      - formula.Nick and full name
+      - p_insight
+      - p_investigation
+      - p_perception
+    image: note.cover
+    imageAspectRatio: 1.1
+    cardSize: 370

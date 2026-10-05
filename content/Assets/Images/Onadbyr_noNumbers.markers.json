@@ -1,0 +1,167 @@
+{
+  "size": {
+    "w": 1500,
+    "h": 1941
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_33qai4",
+      "x": 0.700414300510137,
+      "y": 0.415802118486107,
+      "layer": "default",
+      "link": "Szerencsés Szökkenés#[[Szerencsés Szökkenés]]",
+      "iconKey": "pinRed",
+      "tooltip": "Szerencsés Szökkenés",
+      "iconColor": "#ffffff",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_ctpomt",
+      "x": 0.9067153457143701,
+      "y": 0.7241165454010898,
+      "layer": "default",
+      "link": "Eltemetett Torony#[[Eltemetett Torony]]",
+      "iconKey": "pinRed",
+      "tooltip": "Eltemetett Torony",
+      "iconColor": "#ffffff",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_p02ytv",
+      "x": 0.5419459411345221,
+      "y": 0.7226926445469678,
+      "layer": "default",
+      "link": "Királyné Kegyelme árvaház#[[Királyné Kegyelme árvaház]]",
+      "iconKey": "pinRed",
+      "tooltip": "Királyné Kegyelme",
+      "iconColor": "#ffffff",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_2qz9h5",
+      "x": 0.3734937502593248,
+      "y": 0.3363927352037526,
+      "layer": "default",
+      "link": "Válogatós Otyug#[[Válogatós Otyug]]",
+      "iconKey": "pinRed",
+      "tooltip": "Válogatós Otyug",
+      "iconColor": "#ffffff",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_ot90wj",
+      "x": 0.7903149853551619,
+      "y": 0.6009900085313153,
+      "layer": "default",
+      "link": "Törvényhozók Csarnokai#[[Törvényhozók Csarnokai]]",
+      "iconKey": "pinRed",
+      "tooltip": "Törvényhozók Csarnokai",
+      "iconColor": "#ffffff",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_qzrzp2",
+      "x": 0.20895905219517855,
+      "y": 0.32186107717203294,
+      "layer": "default",
+      "link": "Tripla Kilences Szerencsejáték-csarnok#[[Tripla Kilences Szerencsejáték-csarnok]]",
+      "iconKey": "pinRed",
+      "tooltip": "Tripla Kilences",
+      "iconColor": "#ffffff",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_in8kjo",
+      "x": 0.3640917675128021,
+      "y": 0.26857833105572737,
+      "layer": "default",
+      "link": "Félszerzet Kincse pékség#[[Félszerzet Kincse pékség]]",
+      "iconKey": "pinRed",
+      "tooltip": "Félszerzet Kincse",
+      "iconColor": "#ffffff",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_gd6agb",
+      "x": 0.16168560052694628,
+      "y": 0.5548326117570873,
+      "layer": "default",
+      "link": "Galnyr#[[Galnyr]]",
+      "iconKey": "pinRed",
+      "tooltip": "Galnyr",
+      "iconColor": "#ffffff",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_h6z7uh",
+      "x": 0.3445701898681225,
+      "y": 0.7733016317163721,
+      "layer": "default",
+      "link": "Kutyaverem#[[Kutyaverem]]",
+      "iconKey": "pinRed",
+      "tooltip": "Kutyaverem",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    },
+    {
+      "type": "pin",
+      "id": "marker_1wztgz",
+      "x": 0.4160352042031991,
+      "y": 0.22702797340658942,
+      "layer": "default",
+      "link": "Királyi Szörnykert#[[Királyi Szörnykert]]",
+      "iconKey": "pinRed",
+      "tooltip": "Királyi Szörnykert",
+      "tooltipLabelAlways": true,
+      "tooltipLabelPosition": "below"
+    }
+  ],
+  "bases": [
+    {
+      "path": "Assets/Images/Onadbyr_noNumbers.jpg"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Assets/Images/Onadbyr_noNumbers.jpg",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": [],
+  "grids": [],
+  "secondScreen": {
+    "showGrids": true
+  }
+}
