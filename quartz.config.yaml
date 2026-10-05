@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/isogulaleb/crown-of-the-oathbreaker
+  baseUrl: isogulaleb.github.io/crown-of-the-oathbreaker
   publishAttribute: dg-publish
   ignorePatterns:
     - private
