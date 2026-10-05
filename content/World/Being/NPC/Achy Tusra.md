@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 type: NPC
 location: 
 tags:
