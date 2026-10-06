@@ -1,6 +1,6 @@
 ---
 type: Hero
-cover: [[Eldrin-portre.png]]
+cover: [[Assets/Images/Eldrin-portre.png]]
 p_investigation: 9
 p_perception: 13
 p_insight: 13
